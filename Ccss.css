@@ -158,7 +158,7 @@ ul {
 }
 
 .flip-card-back {
-  background-color: #2e42b1;
+  background-color: black;
   color: white;
   transform: rotateY(180deg);
 }
@@ -235,7 +235,7 @@ ul {
 	color: #fff;
 	line-height: 1.3em;
 	transition: 0.3s;
-	text-align: justify;
+	text-align: center;
 	opacity: 0;
 }
 .card:hover .content p{
