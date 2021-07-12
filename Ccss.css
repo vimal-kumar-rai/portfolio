@@ -58,9 +58,9 @@ ul {
      box-shadow: 5px 5px #a1a1a1;
 }
 .details {
-    margin-left: 15px;
+    margin-left: 0px;
     color: midnightblue;
-	background-color:white;
+  background-color:antiquewhite;
     font-family: sans-serif;
     text-align: center;
     font-size: large;
